@@ -38,4 +38,4 @@ Alumno: *Nicolas Gabriel Rios Taurasi*
 
 * [Guia de TP #05](/guia05/readme.md)
 
-* [Guia de TP Configurar KIT](/readme.md)
+* [Guia de TP Configurar KIT](/config_kit/readme.md)
