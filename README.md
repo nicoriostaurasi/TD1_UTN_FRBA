@@ -20,9 +20,11 @@ Alumno: *Nicolas Gabriel Rios Taurasi*
   
 * ***Guia 03***: Trabajo Práctico implementando componentes de los anteriores TP para realizar las primeras prácticas sobre una FPGA
   
-* ***Guia 04***: Trabajo Práctico integrador Parte #1, el mismo comprende el desarrollo completo de un receptor y transmisor UART. Se aplicaron conceptos de lógica secuencial como lógica combinacional y sobre todo diseño de Máquinas de Estados.
+* ***Guia 04***: Trabajo Práctico Integrador Parte #1, el mismo comprende el desarrollo completo de un receptor y transmisor UART. Se aplicaron conceptos de lógica secuencial como lógica combinacional y sobre todo diseño de Máquinas de Estados.
 
 * ***Guia 05***: Trabajo Practico Integrador Parte #2, utilizando los componentes creados en el trabajo práctico anterior, se realizó una Unidad Aritmética Lógica (ALU) la cuál realiza operaciónes mediante los comandos recibidos por puerto serie, devolviendo los resultados por el mismo puerto.
+
+* ***Guia Configuración KIT*** *: Trábajo Práctico de implementación en un Kit de FPGA. El mismo consiste en configurar la herramienta para poder realizar la implementación de los proyectos sobre un Kit de FPGA. 
 
 # Acceso rapido del Repositorio
 
