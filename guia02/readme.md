@@ -1,6 +1,6 @@
-# Guia 
+# Guia 02
 
-## Repositorio del TP#
+## Repositorio del TP#02
 
 ## Estructura de la carpeta
 
