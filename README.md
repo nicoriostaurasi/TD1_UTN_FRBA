@@ -1,15 +1,14 @@
-## Técnicas Digitales I
-### Repositorio de cursada
+# Técnicas Digitales I
+## Repositorio de cursada
 
 <img src="https://www.frba.utn.edu.ar/wp-content/uploads/2016/08/logo-utn.ba-horizontal-e1471367724904.jpg" alt="UTN FRBA" width="500"/>
 
-Alumno: *Nicolas Gabriel Rios Taurasi*
-	
-- Mail: nicoriostaurasi@frba.utn.edu.ar
-- UTN FRBA
-- Año: 2018
+* ***Alumno***: *Nicolas Gabriel Rios Taurasi*
+* ***Correo***: nicoriostaurasi@frba.utn.edu.ar
+* ***Universidad***: *UTN-FRBA, Departamento de Ingeniería Electrónica*
+* ***Año***: 2018
 
-# Estructura del repositorio
+## Estructura del repositorio
 
 * ***Guia 00***: Trabajo Práctico sobre Introducción a VHDL e implementaciones de circuitos combinacionales.
 
@@ -25,7 +24,7 @@ Alumno: *Nicolas Gabriel Rios Taurasi*
 
 * ***Guia Configuración KIT*** *: Trábajo Práctico de implementación en un Kit de FPGA. El mismo consiste en configurar la herramienta para poder realizar la implementación de los proyectos sobre un Kit de FPGA. 
 
-# Acceso rapido del Repositorio
+## Acceso rapido del Repositorio
 
 * [Guia de TP #00](/guia00/readme.md)
 
