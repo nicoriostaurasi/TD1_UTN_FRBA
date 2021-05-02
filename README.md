@@ -9,7 +9,6 @@ Alumno: *Nicolas Gabriel Rios Taurasi*
 - UTN FRBA
 - Año: 2018
 
-
 # Estructura del repositorio
 
 * ***Guia 00***: Trabajo Práctico sobre Introducción a VHDL e implementaciones de circuitos combinacionales.
