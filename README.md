@@ -22,7 +22,7 @@
 
 * ***Guia 05***: Trabajo Practico Integrador Parte #2, utilizando los componentes creados en el trabajo práctico anterior, se realizó una Unidad Aritmética Lógica (ALU) la cuál realiza operaciónes mediante los comandos recibidos por puerto serie, devolviendo los resultados por el mismo puerto.
 
-* ***Guia Configuración KIT*** *: Trábajo Práctico de implementación en un Kit de FPGA. El mismo consiste en configurar la herramienta para poder realizar la implementación de los proyectos sobre un Kit de FPGA. 
+* ***Guia Configuración KIT***: Trábajo Práctico de implementación en un Kit de FPGA. El mismo consiste en configurar la herramienta para poder realizar la implementación de los proyectos sobre un Kit de FPGA. 
 
 ## Acceso rapido del Repositorio
 
