@@ -12,17 +12,17 @@ Alumno: *Nicolas Gabriel Rios Taurasi*
 
 # Estructura del repositorio
 
-* ***Guia 00***: Guia
+* ***Guia 00***: Trabajo Práctico sobre Introducción a VHDL e implementaciones de circuitos combinacionales.
 
-* ***Guia 01***: Guia
+* ***Guia 01***: Trabajo Práctico sobre Instanciación de componentes y uso de las sentencias for generate para lograr escalabilidad de los circuitos
 
-* ***Guia 02***: Guia
+* ***Guia 02***: Trabajo Práctico de Implementación de Circuitos Secuenciales, Registros, Contadores y Máquinas de Estados.
   
-* ***Guia 03***: Guia
+* ***Guia 03***: Trabajo Práctico implementando componentes de los anteriores TP para realizar las primeras prácticas sobre una FPGA
   
-* ***Guia 04***: Guia
+* ***Guia 04***: Trabajo Práctico integrador Parte #1, el mismo comprende el desarrollo completo de un receptor y transmisor UART. Se aplicaron conceptos de lógica secuencial como lógica combinacional y sobre todo diseño de Máquinas de Estados.
 
-* ***Guia 05***: Guia
+* ***Guia 05***: Trabajo Practico Integrador Parte #2, utilizando los componentes creados en el trabajo práctico anterior, se realizó una Unidad Aritmética Lógica (ALU) la cuál realiza operaciónes mediante los comandos recibidos por puerto serie.
 
 # Acceso rapido del Repositorio
 
