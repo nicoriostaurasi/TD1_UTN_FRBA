@@ -22,7 +22,7 @@ Alumno: *Nicolas Gabriel Rios Taurasi*
   
 * ***Guia 04***: Trabajo Práctico integrador Parte #1, el mismo comprende el desarrollo completo de un receptor y transmisor UART. Se aplicaron conceptos de lógica secuencial como lógica combinacional y sobre todo diseño de Máquinas de Estados.
 
-* ***Guia 05***: Trabajo Practico Integrador Parte #2, utilizando los componentes creados en el trabajo práctico anterior, se realizó una Unidad Aritmética Lógica (ALU) la cuál realiza operaciónes mediante los comandos recibidos por puerto serie.
+* ***Guia 05***: Trabajo Practico Integrador Parte #2, utilizando los componentes creados en el trabajo práctico anterior, se realizó una Unidad Aritmética Lógica (ALU) la cuál realiza operaciónes mediante los comandos recibidos por puerto serie, devolviendo los resultados por el mismo puerto.
 
 # Acceso rapido del Repositorio
 
