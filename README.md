@@ -26,5 +26,5 @@ Alumno: *Nicolas Gabriel Rios Taurasi*
 
 # Acceso rapido del Repositorio
 
-* [Guia de TPs 00](TD1_UTN_FRBA/guia00/)
+* [Guia de TPs 00](../guia00/readme.md)
 
