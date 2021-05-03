@@ -35,7 +35,7 @@ c : in std_logic_vector (1 downto 0);
 s : out std_logic);
 end myMux4_1;
 ```
-En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase00_01.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase01_01_tb.vhd)
+En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase01_01.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase01_01_tb.vhd)
 
 Captura del Test Bench:
 ![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia01/capturas/screenguiaDeClase01_01.PNG?raw=true "Logo Title Text 1")
