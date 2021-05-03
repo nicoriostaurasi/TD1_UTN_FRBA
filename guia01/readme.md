@@ -24,3 +24,20 @@
 
 ## Descripción de los Ejercicios
 
+* **Ejercicio 01**: *Multiplexor 4 a 1 instanciando Multiplexores 2 a 1*
+
+* **Ejercicio 02**: *4 Buffers Tri-State*
+
+* **Ejercicio 03**: *N Buffers Tri-State*
+
+* **Ejercicio 04**: *Sumador completo de 4 bits*
+
+* **Ejercicio 05**: *Sumador completo de N bits*
+
+* **Ejercicio 06**: *Conversor de Gray a Binario de N bits*
+
+* **Ejercicio 07**: *Conversor de Binario a Gray de N bits*
+
+* **Ejercicio 08**: *Conversor Binario a Gray y Gray a Binario*
+
+* **Ejercicio 09**: *Incrementador Gray*
