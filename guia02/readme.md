@@ -65,8 +65,11 @@ La entidad de corresponde a la siguiente:
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia02/src/guiaDeClase02_04.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase02_04_tb.vhd)
 
-Captura del Test Bench:
-![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_04.PNG?raw=true "Logo Title Text 1")
+Captura #1 del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_04_1.PNG?raw=true "Logo Title Text 1")
+
+Captura #2 del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_04_2.PNG?raw=true "Logo Title Text 1")
 
 
 * **Ejercicio 05**: *Detector de Flanco Ascendente*
