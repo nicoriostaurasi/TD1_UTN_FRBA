@@ -25,6 +25,7 @@
 ## Descripción de los Ejercicios
 
 * **Ejercicio 01**: *Flip Flop D con Reset (Sincrónico)*
+
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
@@ -42,6 +43,7 @@ Captura del Test Bench:
 ![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_01.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 02**: *Flip Flop D con Clear (Asincrónico)*
+
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
@@ -59,6 +61,7 @@ Captura del Test Bench:
 ![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_02.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 03**: *Flip Flop D con Reset y Enable*
+
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
@@ -77,6 +80,7 @@ Captura del Test Bench:
 ![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_03.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 04**: *N Flip Flops D con Reset y Enable*
+
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
@@ -100,6 +104,7 @@ Captura #2 del Test Bench:
 
 
 * **Ejercicio 05**: *Detector de Flanco Ascendente*
+
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
@@ -119,6 +124,7 @@ Captura del Test Bench:
 
 
 * **Ejercicio 06**: *Registro de Desplazamiento (SISO) de N bits con Reset*
+
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
@@ -143,6 +149,7 @@ Captura del RTL:
 ![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenRTL_guiaDeClase02_06.PNG?raw=true)
 
 * **Ejercicio 07**: *Registro de Desplazamiento (SISO) de N bits con Reset y Enable*
+
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
@@ -189,6 +196,7 @@ Captura #2 del Test Bench:
 ![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_08_2.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 09**: *Contador en Anillo de N bits*
+
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
@@ -226,6 +234,7 @@ Captura del Test Bench:
 ![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_10.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 11**: *Contador Binario ascendente de N bits con Enable*
+
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
@@ -244,6 +253,7 @@ Captura del Test Bench:
 ![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_11.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 12**: *Contador Binario Direccional de N bits*
+
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
