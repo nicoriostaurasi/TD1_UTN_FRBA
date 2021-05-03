@@ -38,11 +38,57 @@ Captura del Test Bench:
 
 * **Ejercicio 02**: *Flip Flop T*
 
+La entidad de corresponde a la siguiente: 
+
+```vhdl
+```
+
+En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_02.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase03_02_tb.vhd)
+
+Captura del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia03/capturas/screenGuiaDeClase03_02.PNG?raw=true "Logo Title Text 1")
+
 * **Ejercicio 03**: *Blinky LED 1 segundo*
+
+La entidad de corresponde a la siguiente: 
+
+```vhdl
+```
+
+En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_03.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase03_03_tb.vhd)
+
+Captura del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia03/capturas/screenGuiaDeClase03_03.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 04**: *Contador en anillo cada 1 segundo*
 
+La entidad de corresponde a la siguiente: 
+
+```vhdl
+```
+
+En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_04.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase03_04_tb.vhd)
+
+Captura del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia03/capturas/screenGuiaDeClase03_04.PNG?raw=true "Logo Title Text 1")  
+
 * **Ejercicio 05 (previo)**: *Contador en anillo con Sentido Configurable*
+
+La entidad de corresponde a la siguiente: 
+
+```vhdl
+```
+
+En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_05_a.vhd) 
 
 * **Ejercicio 05**: *Contador en anillo cada 1 segundo con Sentido Cofigurable*
 
+La entidad de corresponde a la siguiente: 
+
+```vhdl
+```
+
+En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_05.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase03_05_tb.vhd)
+
+Captura del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia03/capturas/screenGuiaDeClase03_05.PNG?raw=true "Logo Title Text 1")
