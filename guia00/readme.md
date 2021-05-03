@@ -37,13 +37,8 @@ end myAnd2;
 ```
 En donde podemos encontrar su correspondiente archivo [fuente](/guia00/src/guiaDeClase00_01.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia00/test_bench/guiaDeClase00_01_tb.vhd)
 
-Inline-style:
-![alt text]( "Logo Title Text 1")
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-
+Captura del Test Bench:
+![alt text]( https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia00/capturas/screenguiaDeClase00_01_tb.png?raw=true "Logo Title Text 1")
 
 * **Ejercicio 02**: *Compuerta AND de 4 entradas*
 A
