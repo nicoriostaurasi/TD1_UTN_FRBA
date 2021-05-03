@@ -20,4 +20,18 @@
 
 ## Descripción de los Ejercicios
 
-* **Ejercicio 01**: *Transmisor UART 9600-8N1*
+* **Ejercicio 01**: *Unidad Aritmética Lógica Serial (Serial ALU)*
+
+La entidad de corresponde a la siguiente: 
+
+```vhdl
+entity mySerialALU is
+    Port ( clk : in  STD_LOGIC;
+           rst : in  STD_LOGIC;
+           tx : out  STD_LOGIC;
+           rx : in  STD_LOGIC);
+end mySerialALU;
+```
+
+En donde podemos encontrar su correspondiente archivo [fuente](/guia05/src/guiaDeClase05_01.vhd) y podemos ver una simulación en el siguiente [test bench](/guia05/test_bench/guiaDeClase05_01_tb.vhd)
+
