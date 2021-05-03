@@ -24,4 +24,29 @@
 
 ## Descripción de los Ejercicios
 
-* **Ejercicio 01**: **
+* **Ejercicio 01**: *Flip Flop D con Reset (Sincrónico)*
+
+* **Ejercicio 02**: *Flip Flop D con Clear (Asincrónico)*
+
+* **Ejercicio 03**: *Flip Flop D con Reset y Enable*
+
+* **Ejercicio 04**: *N Flip Flops D con Reset y Enable*
+
+* **Ejercicio 05**: *Detector de Flanco Ascendente*
+
+* **Ejercicio 06**: *Registro de Desplazamiento (SISO) de N bits con Reset*
+
+* **Ejercicio 07**: *Registro de Desplazamiento (SISO) de N bits con Reset y Enable*
+
+* **Ejercicio 08**: *Registro de Desplazamiento de N bits con Reset, Enable, Carga Paralela y Bidireccional*
+
+* **Ejercicio 09**: *Contador en Anillo de N bits*
+
+* **Ejercicio 10**: *Contador Johnson de N bits*
+
+* **Ejercicio 11**: *Contador Binario ascendente de N bits con Enable*
+
+* **Ejercicio 12**: *Contador Binario Direccional de N bits*
+
+* **Ejercicio 14**: *Contador de Flancos Ascendentes*
+
