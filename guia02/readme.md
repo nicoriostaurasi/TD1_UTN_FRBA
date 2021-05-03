@@ -92,9 +92,14 @@ La entidad de corresponde a la siguiente:
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia02/src/guiaDeClase02_06.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase02_06_tb.vhd)
 
-Captura del Test Bench:
-![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_06.PNG?raw=true "Logo Title Text 1")
+Captura #1 del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_06_1.PNG?raw=true "Logo Title Text 1")
 
+Captura #2 del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_06_2.PNG?raw=true "Logo Title Text 1")
+
+Captura del RTL:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenRTL_guiaDeClase02_06.PNG?raw=true)
 
 * **Ejercicio 07**: *Registro de Desplazamiento (SISO) de N bits con Reset y Enable*
 La entidad de corresponde a la siguiente: 
@@ -104,8 +109,11 @@ La entidad de corresponde a la siguiente:
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia02/src/guiaDeClase02_07.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase02_07_tb.vhd)
 
-Captura del Test Bench:
-![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_07.PNG?raw=true "Logo Title Text 1")
+Captura #1 del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_07_1.PNG?raw=true "Logo Title Text 1")
+
+Captura #2 del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_07_2.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 08**: *Registro de Desplazamiento de N bits con Reset, Enable, Carga Paralela y Bidireccional*
 
@@ -116,8 +124,11 @@ La entidad de corresponde a la siguiente:
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia02/src/guiaDeClase02_08.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase02_08_tb.vhd)
 
-Captura del Test Bench:
-![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_08.PNG?raw=true "Logo Title Text 1")
+Captura #1 del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_08_1.PNG?raw=true "Logo Title Text 1")
+
+Captura #2 del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenGuiaDeClase02_08_2.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 09**: *Contador en Anillo de N bits*
 La entidad de corresponde a la siguiente: 
