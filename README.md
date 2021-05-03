@@ -28,14 +28,14 @@
 
 * [Guia de TP #00](/guia00/)
 
-* [Guia de TP #01](/guia01/readme.md)
+* [Guia de TP #01](/guia01/)
 
-* [Guia de TP #02](/guia02/readme.md)
+* [Guia de TP #02](/guia02/)
 
-* [Guia de TP #03](/guia03/readme.md)
+* [Guia de TP #03](/guia03/)
 
-* [Guia de TP #04](/guia04/readme.md)
+* [Guia de TP #04](/guia04/)
 
-* [Guia de TP #05](/guia05/readme.md)
+* [Guia de TP #05](/guia05/)
 
-* [Guia de TP Configurar KIT](configuracion_kit/readme.md)
+* [Guia de TP Configurar KIT](/configuracion_kit/)
