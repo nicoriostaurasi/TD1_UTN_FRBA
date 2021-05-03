@@ -4,12 +4,24 @@
 
 ## Estructura de la carpeta
 
-* ***Capturas***:  
+* ***Capturas***: Se encuentran las capturas del flujo de entrada/salida de las distintas entidades.
 
-* ***Enunciado***:  
+* ***Enunciado***: Se encuentra el enunciado del TP a desarrollar.
 
-* ***Src***: 
+* ***Src***: Se encuentra el archivo fuente de los distintos TPS.
 
-* ***Test_Bench***:  
+* ***Test_Bench***: Se encuentra el código fuente de los test bench realizados.
 
 ## Acceso rapido de la carpeta
+
+* [Capturas](/guia02/capturas/)
+
+* [Enunciado](/guia02/enunciado/guiaDeClase02.pdf)
+
+* [Src](/guia02/src/)
+
+* [Test_Bench](/guia02/test_bench/)
+
+## Descripción de los Ejercicios
+
+* **Ejercicio 01**: **
