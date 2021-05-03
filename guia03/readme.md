@@ -29,6 +29,14 @@
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity myCnt is
+Generic (M : integer := 100);
+Port ( clk : in std_logic;
+rst : in std_logic;
+ena : in std_logic;
+salidaM_2 : out std_logic;
+salidaM : out std_logic);
+end myCnt;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_01.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase03_01_tb.vhd)
@@ -41,6 +49,12 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity FFT is
+Port ( clk : in std_logic;
+rst : in std_logic;
+t : in std_logic;
+q : out std_logic);
+end FFT;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_02.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase03_02_tb.vhd)
@@ -53,6 +67,11 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity parpadeo1S is
+Port ( clk : in std_logic;
+rst : in std_logic;
+led : out std_logic);
+end parpadeo1S;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_03.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase03_03_tb.vhd)
@@ -65,6 +84,11 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity parpadeo1S_8Bits is
+Port ( clk : in std_logic;
+rst : in std_logic;
+led : out std_logic_vector (7 downto 0));
+end parpadeo1S_8Bits;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_04.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase03_04_tb.vhd)
@@ -77,6 +101,14 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity myRingCnt2 is
+	 generic(N:integer:=4);
+    Port ( clk : in  STD_LOGIC;
+           rst : in  STD_LOGIC;
+           ena : in  STD_LOGIC;
+			  dir	: in  STD_LOGIC;
+           q : out  STD_LOGIC_VECTOR (N-1 downto 0));
+end myRingCnt2;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_05_a.vhd) 
@@ -86,6 +118,12 @@ En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaD
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity parpadeo1S_8Bits is
+Port ( clk : in std_logic;
+rst : in std_logic;
+btn: in std_logic;
+led : out std_logic_vector (7 downto 0));
+end parpadeo1S_8Bits;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia03/src/guiaDeClase03_05.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase03_05_tb.vhd)
