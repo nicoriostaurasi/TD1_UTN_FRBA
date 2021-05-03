@@ -26,7 +26,7 @@
 
 ## Acceso rapido del Repositorio
 
-* [Guia de TP #00](/guia00/readme.md)
+* [Guia de TP #00](/guia00/)
 
 * [Guia de TP #01](/guia01/readme.md)
 
