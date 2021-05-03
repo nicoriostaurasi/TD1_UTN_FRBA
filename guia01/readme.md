@@ -46,6 +46,11 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity myTriState4 is
+Port ( a : in std_logic_vector (3 downto 0);
+c : in std_logic_vector (3 downto 0);
+s : out std_logic_vector (3 downto 0));
+end myTriState4;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase01_02.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase01_02_tb.vhd)
@@ -56,8 +61,13 @@ Captura del Test Bench:
 * **Ejercicio 03**: *N Buffers Tri-State*
 
 La entidad de corresponde a la siguiente: 
-
 ```vhdl
+entity myTriStateN is
+Generic (N: integer := 4);
+Port ( a : in std_logic_vector (N-1 downto 0);
+c : in std_logic_vector (N-1 downto 0);
+s : out std_logic_vector (N-1 downto 0));
+end myTriStateN;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase01_03.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase01_03_tb.vhd)
@@ -70,6 +80,12 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity fullAdder4 is
+Port ( a, b: in std_logic_vector (3 downto 0);
+ci : in std_logic;
+s : out std_logic_vector (3 downto 0);
+co: out std_logic);
+end fullAdder4;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase01_04.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase01_04_tb.vhd)
@@ -82,6 +98,13 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity fullAdderN is
+Generic (N: integer := 4);
+Port ( a, b: in std_logic_vector (N-1 downto 0);
+ci : in std_logic;
+s : out std_logic_vector (N-1 downto 0);
+co: out std_logic);
+end fullAdderN;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase01_05.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase01_05_tb.vhd)
@@ -94,6 +117,11 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity grayBinario is
+Generic (N: integer := 4);
+Port ( gray: in std_logic_vector (N-1 downto 0);
+binario : out std_logic_vector (N-1 downto 0));
+end grayBinario;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase01_06.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase01_06_tb.vhd)
@@ -106,6 +134,11 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity binarioGray is
+Generic (N: integer := 4);
+Port ( binario: in std_logic_vector (N-1 downto 0);
+gray : out std_logic_vector (N-1 downto 0));
+end binarioGray;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase01_07.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase01_07_tb.vhd)
@@ -118,6 +151,12 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity conversiorBinarioGray is
+Generic (N: integer := 8);
+Port ( binario: in std_logic_vector (N-1 downto 0);
+gray : out std_logic_vector (N-1 downto 0);
+sel: in std_logic);
+end conversiorBinarioGray;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase01_08.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase01_08_tb.vhd)
@@ -130,6 +169,11 @@ Captura del Test Bench:
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity incGray is
+Generic (N: integer := 16);
+Port ( entrada: in std_logic_vector (N-1 downto 0);
+salida : out std_logic_vector (N-1 downto 0));
+end incGray;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase01_09.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase01_09_tb.vhd)
