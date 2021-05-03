@@ -25,6 +25,17 @@
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity myUartTx
+Generic (baudRate : integer := 9600;
+sysClk : integer := 50000000;
+dataSize : integer := 8);
+Port ( clk : in std_logic;
+rst : in std_logic;
+dataWr : in std_logic;
+dataTx : in std_logic_vector (dataSize - 1 downto 0);
+ready : out std_logic;
+tx : out std_logic);
+end myUartTx;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaDeClase04_01.vhd) y podemos ver una simulación en el siguiente [test bench](/guia04/test_bench/guiaDeClase04_01_tb.vhd)
@@ -34,6 +45,12 @@ En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaD
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity myUartTxTest
+Port ( clk : in std_logic;
+rst : in std_logic;
+sw : in std_logic_vector (3 downto 0)
+tx : out std_logic);
+end myUartTxTest;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaDeClase04_02.vhd) y podemos ver una simulación en el siguiente [test bench](/guia04/test_bench/guiaDeClase04_02_tb.vhd)
@@ -44,6 +61,16 @@ En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaD
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity myUartRx
+Generic (baudRate : integer := 9600;
+sysClk : integer := 50000000;
+dataSize : integer := 8);
+Port ( clk : in std_logic;
+rst : in std_logic;
+dataRd : out std_logic;
+dataRx : out std_logic_vector (dataSize - 1 downto 0);
+rx : in std_logic);
+end myUartRx;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaDeClase04_03.vhd) y podemos ver una simulación en el siguiente [test bench](/guia04/test_bench/guiaDeClase04_03_tb.vhd)
@@ -53,6 +80,12 @@ En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaD
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity myUartRxTest
+Port ( clk : in std_logic;
+rst : in std_logic;
+led : out std_logic_vector (7 downto 0);
+rx : in std_logic);
+end myUartRxTest;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaDeClase04_04.vhd) y podemos ver una simulación en el siguiente [test bench](/guia04/test_bench/guiaDeClase04_04_tb.vhd)
@@ -63,6 +96,20 @@ En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaD
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity myUart
+Generic (baudRate : integer := 9600;
+sysClk : integer := 50000000;
+dataSize : integer := 8);
+Port ( clk : in std_logic;
+rst : in std_logic;
+dataWr : in std_logic;
+dataTx : in std_logic_vector (dataSize - 1 downto 0);
+ready : out std_logic;
+tx : out std_logic;
+dataRd : out std_logic;
+dataRx : out std_logic_vector (dataSize - 1 downto 0);
+rx : in std_logic);
+end myUart;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaDeClase04_05.vhd) y podemos ver una simulación en el siguiente [test bench](/guia04/test_bench/guiaDeClase04_05_tb.vhd)
@@ -73,6 +120,14 @@ En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaD
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
+entity myUartTest
+Port ( clk : in std_logic;
+rst : in std_logic;
+sw : in std_logic_vector (3 downto 0);
+tx : out std_logic;
+led : out std_logic_vector (7 downto 0);
+rx : in std_logic);
+end myUartTest;
 ```
 
 En donde podemos encontrar su correspondiente archivo [fuente](/guia04/src/guiaDeClase04_06.vhd) y podemos ver una simulación en el siguiente [test bench](/guia04/test_bench/guiaDeClase04_06_tb.vhd)
