@@ -29,11 +29,11 @@
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
-entity myAnd2 is
-    Port ( a : in  STD_LOGIC;
-           b : in  STD_LOGIC;
-           c : out  STD_LOGIC);
-end myAnd2;
+entity myMux4_1 is
+Port ( a : in std_logic_vector (3 downto 0);
+c : in std_logic_vector (1 downto 0);
+s : out std_logic);
+end myMux4_1;
 ```
 En donde podemos encontrar su correspondiente archivo [fuente](/guia01/src/guiaDeClase00_01.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia01/test_bench/guiaDeClase00_01_tb.vhd)
 
