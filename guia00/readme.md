@@ -155,7 +155,7 @@ En donde podemos encontrar su correspondiente archivo [fuente](/guia00/src/guiaD
 Captura del Test Bench:
 ![alt text]( https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia00/capturas/screenguiaDeClase00_08_tb.PNG?raw=true "Logo Title Text 1")
 
-* **Ejercicio 09**: *Decodificador BCD a 7 segmentos*\
+* **Ejercicio 09**: *Decodificador BCD a 7 segmentos*
 
 La entidad de corresponde a la siguiente: 
 
@@ -171,7 +171,7 @@ En donde podemos encontrar su correspondiente archivo [fuente](/guia00/src/guiaD
 Captura del Test Bench:
 ![alt text]( https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia00/capturas/screenguiaDeClase00_09_tb.PNG?raw=true "Logo Title Text 1")
 
-* **Ejercicio 10**: *Decodificador 3 a 8*\
+* **Ejercicio 10**: *Decodificador 3 a 8*
 
 La entidad de corresponde a la siguiente: 
 
@@ -187,8 +187,8 @@ En donde podemos encontrar su correspondiente archivo [fuente](/guia00/src/guiaD
 Captura del Test Bench:
 ![alt text]( https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia00/capturas/screenguiaDeClase00_10_tb.PNG?raw=true "Logo Title Text 1")
 
-* **Ejercicio 11**: *Codificador 4 a 2*\
-
+* **Ejercicio 11**: *Codificador 4 a 2*
+  
 La entidad de corresponde a la siguiente: 
 
 ```vhdl
@@ -203,7 +203,7 @@ En donde podemos encontrar su correspondiente archivo [fuente](/guia00/src/guiaD
 Captura del Test Bench:
 ![alt text]( https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia00/capturas/screenguiaDeClase00_11_tb.PNG?raw=true "Logo Title Text 1")
 
-* **Ejercicio 12**: *Divisor de Magnitudes de 8 bits x1 x2 x4 y x8*\
+* **Ejercicio 12**: *Divisor de Magnitudes de 8 bits x1 x2 x4 y x8*
 
 La entidad de corresponde a la siguiente: 
 
@@ -221,7 +221,7 @@ Captura del Test Bench:
 ![alt text]( https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia00/capturas/screenguiaDeClase00_12_tb.PNG?raw=true "Logo Title Text 1")
 
 
-* **Ejercicio 13**: *Divisor de Numeros Signados de 8 bits representados en CA2 x1 x2 x4 y x8*\
+* **Ejercicio 13**: *Divisor de Numeros Signados de 8 bits representados en CA2 x1 x2 x4 y x8*
 
 La entidad de corresponde a la siguiente: 
 
