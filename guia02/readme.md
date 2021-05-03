@@ -25,6 +25,15 @@
 ## Descripción de los Ejercicios
 
 * **Ejercicio 01**: *Flip Flop D con Reset (Sincrónico)*
+La entidad de corresponde a la siguiente: 
+
+```vhdl
+```
+
+En donde podemos encontrar su correspondiente archivo [fuente](/guia02/src/guiaDeClase02_01.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia02/test_bench/guiaDeClase02_01_tb.vhd)
+
+Captura del Test Bench:
+![alt text](https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia02/capturas/screenguiaDeClase02_01.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 02**: *Flip Flop D con Clear (Asincrónico)*
 
