@@ -24,4 +24,14 @@
 
 ## Descripción de los Ejercicios
 
-* **Ejercicio 01**: *Contador de M y M/2 pulsos de clock*
+* **Ejercicio 01**: *Transmisor UART 9600-8N1*
+
+* **Ejercicio 02**: *Testeo Transmisor UART*
+
+* **Ejercicio 03**: *Receptor UART 9600-8N1*
+
+* **Ejercicio 04**: *Testeo Receptor UART*
+
+* **Ejercicio 05**: *Módulo UART*
+
+* **Ejercicio 06**: *Testeo Módulo UART*
