@@ -137,7 +137,7 @@ end myAnd4;
 En donde podemos encontrar su correspondiente archivo [fuente](/guia00/src/guiaDeClase00_07.vhd) y podemos ver una pequeña simulación en el siguiente [test bench](/guia00/test_bench/guiaDeClase00_07_tb.vhd)
 
 Captura del Test Bench:
-![alt text]( https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia00/capturas/screenguiaDeClase00_07_tb.PNG?raw=true "Logo Title Text 1")
+![alt text]( https://github.com/nicoriostaurasi/TD1_UTN_FRBA/blob/master/guia00/capturas/screenguiaDeClase00_07.PNG?raw=true "Logo Title Text 1")
 
 * **Ejercicio 08**: *Comparador de Magnitudes de 8 bits*
 
